@@ -19,7 +19,7 @@
 1. Clonez le dépôt :
    ```bash
    git clone https://github.com/tete784/TP-INDIVIDUEL-DOCKER.git
-   cd TP-INDIVIDUEL-DOCKER
+   cd TP-INDIVIDUEL-DOCKER 
    ```
 2. Installez les dépendances Node.js :
 ```bash
